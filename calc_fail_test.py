@@ -1,0 +1,1 @@
+USERS_TABLE_PATH = "/api/db/resources/user_model.csv"
